@@ -1,9 +1,9 @@
 Sistema de Gestão Educacional
-Este é um sistema robusto desenvolvido em Python para otimizar processos administrativos em instituições de ensino. O projeto foca em organizar o fluxo de dados entre alunos, professores e turmas, utilizando o SQLite para persistência de dados local e eficiente.
+ Este é um sistema robusto desenvolvido em Python para otimizar processos administrativos em instituições de ensino. O projeto foca em organizar o fluxo de dados entre alunos, professores e turmas, utilizando o SQLite para persistência de dados local e eficiente.
 
  - Funcionalidades
 
-O sistema foi projetado para oferecer uma interface clara e operações CRUD completas:
+ O sistema foi projetado para oferecer uma interface clara e operações CRUD completas:
 Gestão de Alunos: Matrícula, atualização de dados cadastrais e consulta de histórico.
 Controle de Professores: Cadastro de docentes e vinculação com disciplinas.
 Administração de Turmas: Organização de horários, salas e limite de vagas.
